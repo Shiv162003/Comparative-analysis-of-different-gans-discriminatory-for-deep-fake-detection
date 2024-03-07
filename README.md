@@ -1,0 +1,1 @@
+# Comparative-analysis-of-different-gans-discriminatory-for-deep-fake-detection
